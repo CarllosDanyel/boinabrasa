@@ -1,0 +1,43 @@
+body{
+    font-family: 'Lucida Sans';
+    background-color: black;
+    color: aliceblue;
+}
+header{
+    background-color: brown;
+}
+button{
+    background-color: black;
+    flex-direction: row;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#primario{
+
+}
+#secundario{
+    float: right;
+    background-color: aqua;
+    width: 200px;
+}
+aside{
+    float: left;
+    background-color: aqua;
+}
+section{
+
+}
+#log{
+    background-color: brown;
+}
+#lop{
+    background-color: tomato;
+}
+img{
+    padding: 10px;
+    border: 2px;
+    border-color: black;
+    width: 280px;
+    height: 280px;
+
+}
